@@ -35,6 +35,10 @@ Start the development server:
 npm run dev
 ```
 
+Start the development server with the network flag for external access:
+```bash
+npm run dev:network
+```
 Open [http://localhost:3000](http://localhost:3000) in your browser to start monitoring.
 
 ## 🛠️ Tech Stack
