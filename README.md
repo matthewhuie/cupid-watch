@@ -2,6 +2,10 @@
 
 **Cupid Watch** is a lightweight, real-time web application designed to help you monitor and snag NYC Marriage Ceremony appointment slots. It polls the NYC Clerk Scheduler directly from the backend and provides instant notifications when new slots become available.
 
+<p align="center">
+<img width="870" height="484" alt="image" src="https://github.com/user-attachments/assets/0817a31b-9f49-41e0-aedc-9919d70fb9b9" />
+</p>
+
 ## ✨ Features
 
 - **🚀 Real-time Monitoring**: Automatically checks for new appointment slots every 10 minutes.
@@ -22,11 +26,10 @@
 
 ### Installation
 
-1. Clone the repository or download the source code.
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
+Install dependencies:
+```bash
+npm install
+```
 
 ### Running the App
 
